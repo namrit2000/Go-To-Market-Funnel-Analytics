@@ -115,10 +115,12 @@ data/
   raw/
     hubspot_instance_a_contacts.xlsx
     hubspot_instance_b_contacts.xlsx
+
   interim/
     hubspot_a_standardized.xlsx
     hubspot_b_standardized.xlsx
     combined_with_dedup_flags.xlsx
+
   processed/
     master_deduplicated_leads.xlsx
     master_leads_with_kpis.xlsx
@@ -138,9 +140,12 @@ outputs/
     stage_distribution.xlsx
     time_summary.xlsx
     validation_summary.xlsx
-  dashboard/
-    funnel_analytics_dashboard.pbix
 
+  dashboard/
+    funnel_analytics_dashbaord.pbix
+
+---
+  
 ## How to Use
 
 1. Run notebooks in sequence:
