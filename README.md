@@ -111,11 +111,17 @@ This project addresses these challenges by building a unified analytics layer fo
 
 ## Project Structure
 
-```
 data/
   raw/
+    hubspot_instance_a_contacts.xlsx
+    hubspot_instance_b_contacts.xlsx
   interim/
+    hubspot_a_standardized.xlsx
+    hubspot_b_standardized.xlsx
+    combined_with_dedup_flags.xlsx
   processed/
+    master_deduplicated_leads.xlsx
+    master_leads_with_kpis.xlsx
 
 notebooks/
   01_data_audit_and_eda.ipynb
@@ -125,12 +131,15 @@ notebooks/
 
 outputs/
   tables/
+    conversion_summary.xlsx
+    funnel_summary.xlsx
+    owner_summary.xlsx
+    source_summary.xlsx
+    stage_distribution.xlsx
+    time_summary.xlsx
+    validation_summary.xlsx
   dashboard/
-
-images/
-```
-
----
+    funnel_analytics_dashboard.pbix
 
 ## How to Use
 
