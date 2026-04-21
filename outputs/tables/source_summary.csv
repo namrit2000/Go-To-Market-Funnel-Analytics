@@ -1,0 +1,12 @@
+source,leads,customers,lead_to_customer_pct
+Direct Traffic,8,0,0.0
+Event,2,0,0.0
+Organic,1,0,0.0
+Organic Search,4,2,50.0
+Outbound Sdr,1,1,100.0
+Paid Search,8,0,0.0
+Paid Social,2,0,0.0
+Partner,6,1,16.67
+Referral,6,2,33.33
+Trade Show,5,1,20.0
+Webinar,2,0,0.0

@@ -1,0 +1,5 @@
+metric,median_days,avg_days
+Lead to MQL Days,18.0,73.48
+MQL to SQL Days,17.0,40.05
+SQL to Opportunity Days,29.0,39.59
+Opportunity to Customer Days,37.0,32.86
