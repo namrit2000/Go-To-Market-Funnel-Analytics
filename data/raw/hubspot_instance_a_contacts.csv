@@ -1,0 +1,37 @@
+hs_record_id,email_address,firstname,lastname,company,job_title,lead_source,hs_lifecycle_stage,created_at,mql_became_at,sql_became_at,opportunity_created_at,customer_at,owner_name,manual_entry_notes,last_modified_at
+A-10031,leo.cox@acornchildcare.com,Leo,Cox,Acorn Childcare,Founder,Trade Show,Lead,2024-01-26,,,,,Priya Nair,owner changed after routing,2024-03-29
+A-10001,liam.brooks@nexahealth.io,Liam,Brooks,NexaHealth,Operations Manager,Referral,Opportunity,2024-02-02,2024-02-14,2024-03-02,2024-03-06,,Tina Shah,owner changed after routing,2024-03-06
+A-10009,mia.flores@northwindadvisors.com,Mia,Flores,North Wind Advisors,Director of Finance,Direct Traffic,Opportunity,2024-02-02,2024-02-04,2024-03-07,2024-03-22,,Priya Nair,Jordan updated stage after call,2024-05-15
+A-10026,hannah.graham@meridianvet.com,Hannah,Graham,Meridian Veterinary,Practice Manager,Paid Search,Lead,2024-02-09,,,,,Marcus Lee,MQL date added later,2024-02-14
+A-10003,emma.diaz@pioneerlogistics.com,Emma,Diaz,Pioneer Logistics LLC,VP People,Direct Traffic,Opportunity,2024-02-18,,2024-03-03,2024-04-15,,Jordan Miles,MQL date added later,2024-05-15
+A-10012,james.bailey@clearwavedental.com,James,Bailey,Clear Wave Dental,Practice Administrator,Paid Search,SQL,2024-02-21,2024-03-09,2024-03-09,,,Priya Nair,entered manually by marketing,2024-02-21
+A-10020,jackhughes@novastaffing.com,Jack,Hughes,Nova Staffing,Sales Director,Partner,Lead,2024-02-22,,,,,Sofia Gomez,possible duplicate from legacy CRM,2024-04-16
+A-10005,elijah.turner@mapleworksmfg.com,Elijah,Turner,MapleWorks Manufacturing,People Ops Manager,Organic Search,Opportunity,2024-04-18,2024-04-27,2024-05-29,2024-07-06,,Jordan Miles,possible duplicate from legacy CRM,2024-08-14
+A-10011,amelia.ward@greenlineenergy.com,Amelia,Ward,Greenline Energy,HR Director,Direct Traffic,MQL ,2024-04-21,2024-04-27,,,,Ben Carter,possible duplicate from legacy CRM,2024-05-03
+A-10004,olivia.chen@harborfg.com,Olivia,Chen,Harbor Financial Grp,Recruiting Lead,Direct Traffic,SQL,2024-04-27,2024-05-14,2024-05-31,,,Tina Shah,MQL date added later,2024-06-30
+A-10033,penelope.stewart@cloudnine-tech.io,Penelope,Stewart,CloudNine Tech,Director People,Direct Traffic,MQL ,2024-05-04,2024-05-29,,,,Sofia Gomez,MQL date added later,2024-08-26
+A-10002,noah.reed@stonebridgehr.com,Noah,Reed,Stonebridge HR,HR Director,Partner,mql,2024-05-22,2024-06-08,,,,Priya Nair,Jordan updated stage after call,2024-06-02
+A-10023,matthew.russell@elmstreetfoods.com,Matthew,Russell,Elm Street Foods,HR Manager,Paid Search,Opportunity,2024-08-30,2024-09-24,2024-10-05,2024-10-31,,Sofia Gomez,imported from webinar list,2024-09-12
+A-10000,ava.patel@brightpathco.com,Ava,Patel,Bright Path Consulting,Consultant,Direct Traffic,Lead,2024-09-07,,,,,Jordan Miles,,2024-10-06
+A-10025,david.fisher@peakpointroofing.com,David,Fisher,PeakPoint Roofing,Operations Director,Paid Search,Opportunity,2024-10-12,2024-11-05,2024-11-22,2024-12-14,,Ben Carter,imported from webinar list,2024-11-14
+A-10028,samuel.myers@corelinepackaging.com,Samuel,Myers,Coreline Packaging,Finance Director,Partner,Sales Qualified,2024-11-03,2024-11-24,2024-12-20,,,Ben Carter,Jordan updated stage after call,2024-12-11
+A-10006,sophia.james@bluepeaksoft.com,Sophia,James,Blue Peak Software,HRBP,Partner,Opportunity,2025-01-06,2025-01-31,2025-02-19,2025-03-06,,Tina Shah,,2025-01-22
+A-10022,victoria.simmons@silverlaketelecom.com,Victoria,Simmons,SilverLake Telecom,Comp & Benefits Manager,Trade Show,Customer,2025-01-08,,2025-02-04,2025-02-26,2025-03-14,Tina Shah,MQL date added later,2025-05-06
+A-10024,luna.butler@crownmedsupply.com,Luna,Butler,Crown Medical Supply,Recruiting Manager,Paid Search,Opportunity,2025-01-26,2025-02-10,2025-02-24,2025-03-08,,Priya Nair,owner changed after routing,2025-03-09
+A-10013,harperbennett@solsticehotels.com,Harper,Bennett,Solstice Hospitality,Regional HR Manager,Paid Search,MQL ,2025-02-03,2025-02-28,,,,Jordan Miles,imported from webinar list,2025-04-18
+A-10032,julian.parker@westfieldtherapy.com,Julian,Parker,Westfield Therapy,Clinic Administrator,Partner,MQL,2025-02-13,2025-03-05,,,,Tina Shah,entered manually by marketing,2025-06-10
+A-10029,nora.hayes@bridgewellfinance.com,Nora,Hayes,Bridgewell Finance,HR Director,Referral,SQL,2025-02-19,2025-02-19,2025-03-10,,,Sofia Gomez,possible duplicate from legacy CRM,2025-03-18
+A-10010,ethan.price@vertexbuildgrp.com,Ethan,Price,Vertex Build Group,Talent Manager,Referral,MQL ,2025-02-20,2025-02-23,,,,Sofia Gomez,entered manually by marketing,2025-04-04
+A-10027,joseph.hamilton@trailheadoutdoor.co,Joseph,Hamilton,Trailhead Outdoor Co,People Director,Direct Traffic,Lead,2025-03-22,,,,,Jordan Miles,owner changed after routing,2025-06-22
+A-10018,scarlett.long@heliomedia.co,Scarlett,Long,Helio Media,Revenue Operations Manager,Organic Search,Opportunity,2025-03-24,2025-04-15,2025-05-04,2025-06-12,,Jordan Miles,imported from webinar list,2025-06-27
+A-10008,isabellakelly@summitretailpartners.com,Isabella,Kelly,Summit Retail Partners,VP HR,Organic Search,Customer,2025-03-24,,2025-04-14,2025-04-29,2025-05-16,Tina Shah,owner changed after routing,2025-04-01
+A-10017,ella.sanders@beaconbiotech.com,Ella,Sanders,Beacon Biotech,HR Lead,Webinar,SQL ,2025-04-14,2025-05-02,2025-05-08,,,Marcus Lee,Jordan updated stage after call,2025-05-04
+A-10034,riley.peterson@harborlinetransit.com,Riley,Peterson,Harborline Transit,Safety Director,Trade Show,MQL ,2025-05-31,2025-06-17,,,,Marcus Lee,,2025-09-06
+A-10030,zoey.cole@urbansparkcreative.com,Zoey,Cole,UrbanSpark Creative,Office Manager,Direct Traffic,Sales Qualified,2025-06-07,2025-07-02,2025-07-12,,,Tina Shah,Jordan updated stage after call,2025-06-25
+A-10035,levi.reed@metrobuildservices.com,Levi,Reed,MetroBuild Services,HR Director,Paid Search,SQL,2025-06-17,2025-06-24,2025-07-11,,,Tina Shah,Jordan updated stage after call,2025-08-05
+A-10016,abigail.morgan@redoakconstruction.com,Abigail,Morgan,Red Oak Construction,HR Manager,Webinar,Marketing Qualified Lead,2025-06-19,2025-06-27,,,,Jordan Miles,possible duplicate from legacy CRM,2025-06-20
+A-10014,benjamincook@riverstonelegal.com,Benjamin,Cook,Riverstone Legal,Office Manager,Organic Search,Lead,2025-07-09,,,,,Tina Shah,MQL date added later,2025-07-17
+A-10019,grace.perry@primestonerealty.com,Grace,Perry,PrimeStone Realty,COO,Referral,Lead,2025-07-20,,,,,Marcus Lee,MQL date added later,2025-11-12
+A-10021,chloe.foster@truenorthlabs.ai,Chloe,Foster,TrueNorth Labs,People Ops Specialist,Paid Search,Lead,2025-07-28,,,,,Jordan Miles,possible duplicate from legacy CRM,2025-09-05
+A-10015,henry.ross@copperlinesecurity.com,Henry,Ross,Copperline Security,COO,Trade Show,Lead,2025-09-01,,,,,Ben Carter,possible duplicate from legacy CRM,2025-11-12
+A-10007,mason.clark@everwellclinics.com,Mason,Clark,Everwell Clinics,Controller,Trade Show,SQL ,2025-11-06,2025-11-23,2025-12-03,,,Sofia Gomez,possible duplicate from legacy CRM,2025-12-23
