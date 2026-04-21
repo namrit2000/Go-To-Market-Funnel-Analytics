@@ -1,0 +1,37 @@
+lead_id,email,first_name,last_name,company,job_title,source,lifecycle_stage,created_date,mql_date,sql_date,opportunity_date,customer_date,owner,notes,last_updated,source_system
+B-20001,noah.reed@stonebridgehr.com,Noah,Reed,Stone Bridge HR,HR Director,Outbound SDR,Customer,2024-02-07,2024-02-16,2024-02-13,2024-04-06,2024-05-13,Tina Shah,needs review,2024-03-10,hubspot_B
+B-20004,elijah.turner@mapleworksmfg.com,Elijah,Turner,MapleWorks Manufacturing,People Ops Manager,Paid Social,SQL,2024-02-21,2024-02-28,2024-03-07,,,Marcus Lee,manually entered,2024-02-27,hubspot_B
+B-20028,samuel.myers+coadv@corelinepackaging.com,Samuel,Myers,Coreline Packaging,Finance Director,Direct,Lead,2024-03-01,,,,,Priya Nair,,2024-05-01,hubspot_B
+B-20025,hannah.graham@meridianvet.com,Hannah,Graham,Meridian Veterinary,Practice Manager,Direct,MQL,2024-03-16,2024-03-31,,,,Priya Nair,manually entered,2024-07-28,hubspot_B
+B-20034,wyatt.morris@cedarstonehospitality.com,Wyatt,Morris,Cedarstone Hospitality,Regional GM,Event,Lead,2024-04-18,,,,,Sofia Gomez,stage synced late,2024-06-24,hubspot_B
+B-20009,amelia.ward@greenlineenergy.com,Amelia,Ward,Green Line Energy,HR Director,Outbound SDR,MQL,2024-04-28,2024-05-11,,,,Tina Shah,duplicate suspected,2024-07-31,hubspot_B
+B-20022,victoria.simmons@silverlaketelecom.com,Victoria,Simmons,SilverLake Telecom,Comp & Benefits Manager,Direct,MQL,2024-05-06,2024-05-09,,,,Priya Nair,needs review,2024-07-07,hubspot_B
+B-20024,david.fisher@peakpointroofing.com,David,Fisher,PeakPoint Roofing,Operations Director,Partner,MQL,2024-07-02,2024-07-17,,,,Priya Nair,marketing updated after event,2024-10-15,hubspot_B
+B-20013,abigail.morgan@redoakconstruction.com,Abigail,Morgan,RedOak Construction,HR Manager,Direct,Lead,2024-07-05,,,,,Ben Carter,needs review,2024-10-28,hubspot_B
+B-20000,liam.brooks@nexahealth.io,Liam,Brooks,Nexa Health,Operations Manager,Direct,Opportunity,2024-07-06,2024-07-08,2024-08-03,2024-08-29,,Ben Carter,needs review,2024-11-05,hubspot_B
+B-20015,daniel.bryant@orbitfreight.com,Daniel,Bryant,Orbit Freight,Director HRIS,organic,Lead,2024-07-10,,,,,Sofia Gomez,marketing updated after event,2024-09-15,hubspot_B
+B-20033,julian.parker@westfieldtherapy.com,Julian,Parker,Westfield Therapy,Clinic Administrator,Outbound SDR,Lead,2024-08-24,,,,,Marcus Lee,manually entered,2024-12-21,hubspot_B
+B-20011,benjamin.cook@riverstonelegal.com,Benjamin,Cook,Riverstone Legal,Office Manager,Partner,Opportunity,2024-09-09,2024-09-17,2024-10-20,2024-11-27,,Marcus Lee,stage synced late,2024-10-11,hubspot_B
+B-20018,scarlett.long@heliomedia.co,Scarlett,Long,Helio Media,Revenue Operations Manager,Outbound SDR,Customer,2024-09-22,2024-10-10,2024-10-11,2024-11-23,2025-01-17,Priya Nair,manually entered,2025-01-20,hubspot_B
+B-20031,zoey.cole@urbansparkcreative.com,Zoey,Cole,UrbanSpark Creative,Office Manager,Outbound SDR,Lead,2024-11-08,,,,,Sofia Gomez,stage synced late,2024-12-13,hubspot_B
+B-20005,sophia.james@bluepeaksoft.com,Sophia,James,BluePeak Software,HRBP,Partner,SQL,2024-12-16,2024-12-28,2025-01-22,,,Jordan Miles,duplicate suspected,2025-05-01,hubspot_B
+B-20020,jack.hughes@novastaffing.com,Jack,Hughes,Nova Staffing,Sales Director,Direct,Lead,2024-12-28,,,,,Jordan Miles,marketing updated after event,2025-03-06,hubspot_B
+B-20008,ethan.price@vertexbuildgrp.com,Ethan,Price,VertexBuild Group,Talent Manager,Partner,Lead,2025-01-10,,,,,Jordan Miles,,2025-02-27,hubspot_B
+B-20019,sebastian.powell@wellrootrx.com,Sebastian,Powell,WellRoot Pharmacy,HRBP,referral,MQL,2025-01-22,2025-02-01,,,,Jordan Miles,duplicate suspected,2025-03-27,hubspot_B
+B-20027,layla.ford@unitybehavioral.org,Layla,Ford,Unity Behavioral Health,HRIS Analyst,referral,Customer,2025-02-24,2025-03-16,2025-04-16,2025-05-20,2025-05-25,Tina Shah,stage synced late,2025-05-11,hubspot_B
+B-20003,olivia.chen@harborfg.com,Olivia,Chen,Harbor Financial Group,Recruiting Lead,Direct,MQL,2025-04-07,2025-04-09,,,,Jordan Miles,marketing updated after event,2025-05-28,hubspot_B
+B-20006,mason.clark@everwellclinics.com,Mason,Clark,Everwell Clinic,Controller,referral,SQL,2025-04-14,,2025-05-18,,,Tina Shah,stage synced late,2025-08-25,hubspot_B
+B-20017,michael.barnes@oakridenp.org,Michael,Barnes,Oakridge Nonprofit,Finance Manager,Partner,Lead,2025-04-25,,,,,Marcus Lee,manually entered,2025-05-18,hubspot_B
+B-20014,emily.watson@firstharborbank.com,Emily,Watson,First Harbor Bank,SVP Talent,Paid Social,MQL,2025-04-29,2025-05-17,,,,Tina Shah,marketing updated after event,2025-05-18,hubspot_B
+B-20023,matthew.russell@elmstreetfoods.com,Matthew,Russell,Elm Street Foods,HR Manager,Event,SQL,2025-05-13,2025-05-25,2025-06-06,,,Sofia Gomez,duplicate suspected,2025-09-15,hubspot_B
+B-20026,joseph.hamilton@trailheadoutdoor.co,Joseph,Hamilton,Trailhead Outdoor Co,People Director,Outbound SDR,Lead,2025-05-13,,,,,Jordan Miles,duplicate suspected,2025-09-26,hubspot_B
+B-20010,harper.bennett@solsticehotels.com,Harper,Bennett,Solstice Hospitality,Regional HR Manager,Direct,SQL,2025-05-30,2025-06-10,2025-07-07,,,Sofia Gomez,marketing updated after event,2025-07-18,hubspot_B
+B-20029,nora.hayes@bridgewellfinance.com,Nora,Hayes,Bridgewell Finance,HR Director,organic,Customer,2025-06-24,2025-06-28,2025-07-12,2025-08-10,2025-09-22,Priya Nair,duplicate suspected,2025-09-08,hubspot_B
+B-20021,owen.coleman@atlasautogroup.com,Owen,Coleman,Atlas Auto Group,GM,Event,Lead,2025-08-16,,,,,Ben Carter,manually entered,2025-11-28,hubspot_B
+B-20035,riley.peterson@harborlinetransit.com,Riley,Peterson,Harborline Transit,Safety Director,Outbound SDR,MQL,2025-09-21,,,,,Jordan Miles,stage synced late,2026-01-17,hubspot_B
+B-20002,emma.diaz@pioneerlogistics.com,Emma,Diaz,Pioneer Logistics LLC,VP People,Event,SQL,2025-10-30,2025-11-11,2025-11-12,,,Marcus Lee,needs review,2026-01-09,hubspot_B
+B-20016,ella.sanders@beaconbiotech.com,Ella,Sanders,Beacon Biotech,HR Lead,Direct,SQL,2025-11-02,2025-11-27,2025-12-09,,,Marcus Lee,,2026-01-14,hubspot_B
+B-20032,leo.cox@acornchildcare.com,Leo,Cox,Acorn Childcare,Founder,Event,Lead,2025-11-05,,,,,Sofia Gomez,needs review,2025-12-19,hubspot_B
+B-20012,henry.ross+coadv@copperlinesecurity.com,Henry,Ross,Copper Line Security,COO,referral,Opportunity,2025-11-15,2025-11-30,2025-12-06,2025-12-06,,Jordan Miles,,2025-11-28,hubspot_B
+B-20030,aiden.west@shorelinefoods.com,Aiden,West,Shoreline Foods,VP Operations,Outbound SDR,Customer,2025-11-16,,2025-12-24,2026-01-22,2026-03-20,Marcus Lee,manually entered,2026-02-25,hubspot_B
+B-20007,isabella.kelly@summitretailpartners.com,Isabella,Kelly,Summit Retail,VP HR,Paid Social,MQL,2025-11-28,2025-12-23,,,,Priya Nair,,2026-03-05,hubspot_B
